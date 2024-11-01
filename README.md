@@ -21,10 +21,15 @@ ChatGPT中文版网站是专门为中文用户设计和优化的ChatGPT服务平
 ![图片](https://github.com/user-attachments/assets/a2f69cf9-10b0-4f97-8078-f8f893d2c7b4)
 
 **【推荐】**  GPT o1 模型能力最强，但是因为o1模型有思维链，所以响应最慢
+
 **【推荐】**  GPT 4o 模型能力其次，响应速度最快
+
 **【推荐】**  GPT 4.0 turbo 模型能力很强，某些方面要比4o能力好
+
 **【推荐】**  GPT 4o mini 响应速度最快，效果很好的模型，性价比最高
+
 **【不推荐】**  GPT 3.5 trubo 已经被官方遗弃的模型，不建议使用，已经被GPT 4o模型替代
+
 **【不推荐】**  GPT Version 提供读图的多模态模型，不建议使用，因为GPT 4o mini和 GPT 4o已经支持了多模态
 
 
